@@ -1,0 +1,26 @@
+{
+      "schedule":[
+        {
+          "id":"1",
+          "place": "MACAU",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/a_horse.png",
+          "date": "Monday 21, August",
+          "time": "4:05pm-8:15pm"
+        },
+        {
+          "id":"2",
+          "place": "Selangor",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/a_horse.png",
+          "date": "Monday 21, August",
+          "time": "4:05pm-8:15pm"
+        },
+        {
+          "id":"3",
+          "place": "Perak",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/a_horse.png",
+          "date": "Monday 21, August",
+          "time": "4:05pm-8:15pm"
+        }
+      ]
+    }
+    

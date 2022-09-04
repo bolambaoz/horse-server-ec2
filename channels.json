@@ -1,0 +1,98 @@
+{
+      "video":[
+        {
+          "id":1,
+          "channel": "1014",
+          "title": "UK ATR",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/a_horse.png",
+          "description":"Don't missed the exciting event comming"
+        },
+        {
+          "id":2,
+          "channel":"1015",
+          "title":"UK RACING",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/b.png",
+          "description":"Don't missed the exciting event comming"
+        },
+        {
+          "id":3,
+          "channel":"1016",
+          "title":"MACAU",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/e.png",
+          "description":"Don't missed the exciting event comming"
+        },
+        {
+          "id":4,
+          "channel":"1016",
+          "title":"MACAU",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/e.png",
+          "description":"Don't missed the exciting event comming"
+        },
+        {
+          "id":5,
+          "channel":"1016",
+          "title":"MACAU",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/e.png",
+          "description":"Don't missed the exciting event comming"
+        },
+        {
+          "id":6,
+          "channel":"1016",
+          "title":"MACAU",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/e.png",
+          "description":"Don't missed the exciting event comming"
+        },
+        {
+          "id":7,
+          "channel":"1021",
+          "title":"SG 88 CN",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/c.png",
+          "description":"Don't missed the exciting event comming"
+    
+        },
+        {
+          "id":8,
+          "channel":"1022",
+          "title":"SG 88 EN/HK EN",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/b.png",
+          "description":"Don't missed the exciting event comming"
+    
+        },
+        {
+          "id":9,
+          "channel":"1023",
+          "title":"SG 89",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/e.png",
+          "description":"Don't missed the exciting event comming"
+        },
+        {
+          "id":10,
+          "channel":"1024",
+          "title":"SG 89",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/d.png",
+          "description":"Don't missed the exciting event comming"
+        },
+        {
+          "id":11,
+          "channel":"1025",
+          "title":"AUSB SKY1",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/d.png",
+          "description":"Don't missed the exciting event comming"
+        },
+        {
+          "id":12,
+          "channel":"1025",
+          "title":"AUSB SKY1",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/d.png",
+          "description":"Don't missed the exciting event comming"
+        },
+        {
+          "id":13,
+          "channel":"1025",
+          "title":"AUSB SKY1",
+          "imageUrl":"https://96group.s3.ap-southeast-1.amazonaws.com/d.png",
+          "description":"Don't missed the exciting event comming"
+        }
+      ]
+    }
+    
